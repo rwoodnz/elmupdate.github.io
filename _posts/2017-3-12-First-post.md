@@ -6,5 +6,4 @@ comments: true
 
 Have set up a jekyll blog using jekyll-now.
 
-{% include disqus.html %}
 
