@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+A software developer in Wellington, New Zealand, with a background also in technology journalism and Internet governance.
+I work at PartsTrader Markets using C# and Javascript.
+At home I play with Elm.
 
 ### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+Through the usual social media channels or gmail as rwoodnz
