@@ -22,4 +22,4 @@ Note there's some code in these tried-and-tested yml files that [overcomes a pro
 
 So, good result. The empty app is up locally and building and running tests on Travis. Next steps are to add elm-bootstrap, get a basic login form going and add an authentication facade or service connection.
 
-[rwoodnz/elm-base](https://github.com/rwoodnz/rwoodnz.github.io)
+[rwoodnz/elm-base](https://github.com/rwoodnz/elm-base)
