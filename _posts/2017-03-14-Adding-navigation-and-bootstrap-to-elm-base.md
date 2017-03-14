@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Adding navigation and bootstrap to elm base
+title: Adding navigation and bootstrap to Elm base
 comments: true
 ---
 
