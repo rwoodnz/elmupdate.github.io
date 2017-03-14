@@ -21,3 +21,5 @@ Setting up Travis CI was not too much of a problem. I copied the suggested travi
 Note there's some code in these tried-and-tested yml files that [overcomes a problem of long rebuild times on Travis](https://github.com/elm-lang/elm-compiler/issues/1473#issuecomment-245704142).
 
 So, good result. The empty app is up locally and building and running tests on Travis. Next steps are to add elm-bootstrap, get a basic login form going and add an authentication facade or service connection.
+
+[rwoodnz/elm-base](https://github.com/rwoodnz/rwoodnz.github.io)
