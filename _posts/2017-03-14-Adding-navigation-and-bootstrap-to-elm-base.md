@@ -12,5 +12,5 @@ A bonus was that the example elm code showed how to implement a basic multipage 
 
 Also needed to disable the unit tests for now. Rewriting them later should help me understand more how the navigation code works.
 
-
+[rwoodnz/elm-base](https://github.com/rwoodnz/elm-base)
 
